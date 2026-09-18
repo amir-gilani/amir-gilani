@@ -21,10 +21,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,postgres,git,github,vscode,webstorm&perline=13" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Git, GitHub, VS Code, WebStorm" />
 </p>
 
-### 📌 Featured project
-
-**[🍕 Slice&Co](https://github.com/amir-gilani/slice-and-co)**: a restaurant website built with React 19, Vite and Tailwind CSS v4. It has an animated hero pizza slider, a 39-item menu, a builder for customizing each item, and a cart saved in the browser.
-
 ### 📫 Connect with me
 
 <p>
