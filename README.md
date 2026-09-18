@@ -1,26 +1,33 @@
-<h1 align="center">Hi there 👋, I'm Amir</h1>
-<h3 align="center">Software Engineering Student & Full-Stack Web Developer</h3>
+<h1 align="center">Hi, I'm Amir 👋</h1>
+<h3 align="center">Software Engineering student · Full-stack web developer</h3>
 
-<br>
-
-### 🚀 About Me
-* 💻 I’m passionate about building modern web applications and scalable user interfaces.
-* 🎓 Currently studying Software Engineering and expanding my backend & frontend expertise.
-* ⚡ Core focus: React, Next.js, TypeScript, and Tailwind CSS.
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,prisma,postgres,git,github,vscode,webstorm" />
+<p align="center">
+  I build fast, polished web apps with React and Next.js, with a soft spot for smooth UI and motion.
 </p>
 
-<br>
+---
 
-<br>
+### 🚀 About me
 
-### 📫 Connect with Me
+- 🎓 Studying **Software Engineering** and growing on both the frontend and backend
+- ⚡ Day to day I work with **React, Next.js, TypeScript and Tailwind CSS**
+- 🛠️ On the backend I use **Node.js, Express, Prisma and PostgreSQL**
+- 🌱 Right now I'm learning to write cleaner full-stack architecture and test it properly
+- 💬 Ask me about React, UI animation, or Tailwind v4
+
+### 🛠️ Tech stack
+
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,prisma,postgres,git,github,vscode,webstorm&perline=13" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Express, Prisma, PostgreSQL, Git, GitHub, VS Code, WebStorm" />
+</p>
+
+### 📌 Featured project
+
+**[🍕 Slice&Co](https://github.com/amir-gilani/slice-and-co)**: a restaurant website built with React 19, Vite and Tailwind CSS v4. It has an animated hero pizza slider, a 39-item menu, a builder for customizing each item, and a cart saved in the browser.
+
+### 📫 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
