@@ -66,6 +66,9 @@
 
 - 🧥 **[Cropped Puffer](https://github.com/amir-gilani/cropped-puffer)**: a single-page store for one jacket in five colourways, with every transition measured from the live layout
 - 🧀 **[Cheetos Landing](https://github.com/amir-gilani/cheetos-landing)**: an animated snack landing page with a spring-slide flavour carousel, per-flavour theming and a working cart
+<p>
+  <a href="https://github.com/amir-gilani?tab=repositories"><img src="https://img.shields.io/badge/See_all_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="See all projects" /></a>
+</p>
 
 ### 📫 Connect with me
 
