@@ -34,6 +34,16 @@
       <sub><b>React 19 · TypeScript · React Three Fiber · GSAP · Lenis · Tailwind CSS</b></sub>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/amir-gilani/cropped-puffer">
+        <img src="https://github.com/amir-gilani/cropped-puffer/raw/HEAD/docs/storefront.jpg" alt="Cropped Puffer preview" />
+      </a>
+      <h4>🧥 <a href="https://github.com/amir-gilani/cropped-puffer">Cropped Puffer</a></h4>
+      <p>A single-page store for one jacket in five colourways. The background, lighting and price change with each colourway, and every transition is measured from the live layout, so nothing breaks at any window size.</p>
+      <sub><b>React · Framer Motion · Vite · CSS</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://github.com/amir-gilani/sneaker-stage">
         <img src="https://github.com/amir-gilani/sneaker-stage/raw/HEAD/docs/preview.png" alt="Sneaker Stage preview" />
       </a>
@@ -41,19 +51,21 @@
       <p>An animated sneaker product page. Changing the colourway sends the shoe off-screen along a curved path and springs the new one in, all hand-written with <code>requestAnimationFrame</code> and no animation library.</p>
       <sub><b>React 19 · TypeScript · Vite · CSS</b></sub>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/amir-gilani/YouTube-clone">
-        <img src="https://github.com/amir-gilani/YouTube-clone/raw/HEAD/screenshots/preview.png" alt="YouTube clone preview" />
+      <a href="https://github.com/amir-gilani/slice-and-co">
+        <img src="https://github.com/amir-gilani/slice-and-co/raw/HEAD/docs/preview.png" alt="Slice&Co preview" />
       </a>
-      <h4>▶️ <a href="https://github.com/amir-gilani/YouTube-clone">YouTube Clone</a></h4>
-      <p>A responsive rebuild of the YouTube home page with no framework. It has working menus, a light/dark theme saved in <code>localStorage</code>, scrollable category chips, a video grid and a Shorts row.</p>
-      <sub><b>HTML · CSS · Vanilla JavaScript</b></sub>
+      <h4>🍕 <a href="https://github.com/amir-gilani/slice-and-co">Slice&Co</a></h4>
+      <p>A multi-page restaurant site with an animated hero pizza slider, a 39-item menu in 8 categories, a builder for customizing every dish, and a cart saved in the browser.</p>
+      <sub><b>React 19 · Vite · Tailwind CSS v4 · React Router</b></sub>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+#### More projects
+
+- ▶️ **[YouTube Clone](https://github.com/amir-gilani/YouTube-clone)**: a responsive rebuild of the YouTube home page in vanilla HTML, CSS and JavaScript, with working menus and a saved light/dark theme
+- 🧀 **[Cheetos Landing](https://github.com/amir-gilani/cheetos-landing)**: an animated snack landing page with a spring-slide flavour carousel, per-flavour theming and a working cart
 
 ### 📫 Connect with me
 
