@@ -26,38 +26,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/amir-gilani/aventador-concept">
-        <img src="https://github.com/amir-gilani/aventador-concept/raw/HEAD/docs/preview.png" alt="Aventador Concept preview" />
-      </a>
-      <h4>🏎️ <a href="https://github.com/amir-gilani/aventador-concept">Aventador Concept</a></h4>
-      <p>A cinematic 3D supercar showcase. The car turns as you scroll and spins when you drag it. A live configurator repaints the car and the whole page, with 7 paint finishes.</p>
-      <sub><b>React 19 · TypeScript · React Three Fiber · GSAP · Lenis · Tailwind CSS</b></sub>
+      <a href="https://github.com/amir-gilani/aventador-concept"><img src="https://github.com/amir-gilani/aventador-concept/raw/HEAD/docs/preview.png" width="100%" alt="Aventador Concept preview" /></a>
+      <br><b>🏎️ <a href="https://github.com/amir-gilani/aventador-concept">Aventador Concept</a></b>
+      <br>3D supercar showcase with scroll animation and a live paint configurator.
+      <br><sub>React · Three.js · GSAP</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/amir-gilani/YouTube-clone">
-        <img src="https://github.com/amir-gilani/YouTube-clone/raw/HEAD/screenshots/preview.png" alt="YouTube clone preview" />
-      </a>
-      <h4>▶️ <a href="https://github.com/amir-gilani/YouTube-clone">YouTube Clone</a></h4>
-      <p>A responsive rebuild of the YouTube home page with no framework. It has working menus, a light/dark theme saved in <code>localStorage</code>, scrollable category chips, a video grid and a Shorts row.</p>
-      <sub><b>HTML · CSS · Vanilla JavaScript</b></sub>
+      <a href="https://github.com/amir-gilani/YouTube-clone"><img src="https://github.com/amir-gilani/YouTube-clone/raw/HEAD/screenshots/preview.png" width="100%" alt="YouTube clone preview" /></a>
+      <br><b>▶️ <a href="https://github.com/amir-gilani/YouTube-clone">YouTube Clone</a></b>
+      <br>Responsive YouTube home page with working menus and a dark/light theme.
+      <br><sub>HTML · CSS · JavaScript</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/amir-gilani/sneaker-stage">
-        <img src="https://github.com/amir-gilani/sneaker-stage/raw/HEAD/docs/preview.png" alt="Sneaker Stage preview" />
-      </a>
-      <h4>👟 <a href="https://github.com/amir-gilani/sneaker-stage">Sneaker Stage</a></h4>
-      <p>An animated sneaker product page. Changing the colourway sends the shoe off-screen along a curved path and springs the new one in, all hand-written with <code>requestAnimationFrame</code> and no animation library.</p>
-      <sub><b>React 19 · TypeScript · Vite · CSS</b></sub>
+      <a href="https://github.com/amir-gilani/sneaker-stage"><img src="https://github.com/amir-gilani/sneaker-stage/raw/HEAD/docs/preview.png" width="100%" alt="Sneaker Stage preview" /></a>
+      <br><b>👟 <a href="https://github.com/amir-gilani/sneaker-stage">Sneaker Stage</a></b>
+      <br>Animated sneaker page with hand-written transitions and no animation library.
+      <br><sub>React · TypeScript · Vite</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/amir-gilani/slice-and-co">
-        <img src="https://github.com/amir-gilani/slice-and-co/raw/HEAD/docs/preview.png" alt="Slice&Co preview" />
-      </a>
-      <h4>🍕 <a href="https://github.com/amir-gilani/slice-and-co">Slice&Co</a></h4>
-      <p>A multi-page restaurant site with an animated hero pizza slider, a 39-item menu in 8 categories, a builder for customizing every dish, and a cart saved in the browser.</p>
-      <sub><b>React 19 · Vite · Tailwind CSS v4 · React Router</b></sub>
+      <a href="https://github.com/amir-gilani/slice-and-co"><img src="https://github.com/amir-gilani/slice-and-co/raw/HEAD/docs/preview.png" width="100%" alt="Slice&Co preview" /></a>
+      <br><b>🍕 <a href="https://github.com/amir-gilani/slice-and-co">Slice&Co</a></b>
+      <br>Restaurant site with a pizza slider, a 39-item menu and a working cart.
+      <br><sub>React · Tailwind CSS · React Router</sub>
     </td>
   </tr>
 </table>
@@ -66,6 +58,7 @@
 
 - 🧥 **[Cropped Puffer](https://github.com/amir-gilani/cropped-puffer)**: a single-page store for one jacket in five colourways, with every transition measured from the live layout
 - 🧀 **[Cheetos Landing](https://github.com/amir-gilani/cheetos-landing)**: an animated snack landing page with a spring-slide flavour carousel, per-flavour theming and a working cart
+
 <p>
   <a href="https://github.com/amir-gilani?tab=repositories"><img src="https://img.shields.io/badge/See_all_projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="See all projects" /></a>
 </p>
