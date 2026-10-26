@@ -27,7 +27,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/amir-gilani/aventador-concept"><img src="https://github.com/amir-gilani/aventador-concept/raw/HEAD/docs/preview.png" width="100%" alt="Aventador Concept preview" /></a>
-      <br><b>🏎️ <a href="https://github.com/amir-gilani/aventador-concept">Aventador Concept</a></b>
+      <br><b>🏎️ <a href="https://github.com/amir-gilani/aventador-concept">Aventador</a></b>
       <br>3D supercar showcase with scroll animation and a live paint configurator.
       <br><sub>React · Three.js · GSAP</sub>
     </td>
